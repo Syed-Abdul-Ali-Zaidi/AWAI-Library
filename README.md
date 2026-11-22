@@ -5,7 +5,7 @@ GitHub Projects.
 | Role | Name | GitHub username |
 | --- | --- | --- |
 | Product Owner (PO) | Abdul Mueed | @Abdul-Mueed54 |
-| Scrum Master (SM) | Syed Abdul Ali | @Ali-NED |
+| Scrum Master (SM) | Syed Abdul Ali | @Syed-Abdul-Ali-Zaidi |
 | Developer | Inayat Ullah | @inayat32 |
 | Developer | Waheed | @Shahtareen |
 | Stakeholder | Instructor | @Mahn00rMalik |
